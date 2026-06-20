@@ -3,6 +3,21 @@
 Bu proje, web geliştirme eğitimi kapsamında hazırladığım bitirme projesidir.
 İzlemek istediğim film ve dizileri takip edebildiğim, basit bir liste uygulaması.
 
+## Canlı Demo
+
+🔗 [https://watchlist-web-app-huseyin.netlify.app/](https://watchlist-web-app-huseyin.netlify.app/)
+
+## Ekran Görüntüleri
+
+### Tüm Filmler
+![Tüm filmler görünümü](./screenshots/watchlist_home1.png)
+
+### İzlenecekler Filtresi
+![İzlenecek filmler](./screenshots/watchlist_home2.png)
+
+### İzlendi Filtresi
+![İzlenen filmler](./screenshots/watchlist_home3.png)
+
 ## Kullanılan Teknolojiler
 
 - React (Vite ile kuruldu)
@@ -24,7 +39,3 @@ Bu proje, web geliştirme eğitimi kapsamında hazırladığım bitirme projesid
 npm install
 npm run dev
 \`\`\`
-
-## Canlı Demo
-
-(Netlify linki buraya eklenecek)
