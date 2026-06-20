@@ -25,7 +25,7 @@ Bu proje, web geliştirme eğitimi kapsamında hazırladığım bitirme projesid
 - LocalStorage (veriler tarayıcıda saklanıyor, backend yok)
 
 ## Özellikler
-
+- Tüm CRUD işlemler
 - Yeni film/dizi ekleme
 - İzlenecek / İzlendi durumunu değiştirme
 - İzlenen filmlere 1-5 arası puan verme
